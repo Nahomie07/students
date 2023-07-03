@@ -1,0 +1,14 @@
+[
+  {
+    "Matricule": "20U2680",
+    "Nom": "Nono",
+    "Prenom": "Nahomie",
+    "photoUrl" : "/image_0001.jpg"
+  },
+  { 
+    "Matricule": "20U2681",
+    "Nom": "Ngansop",
+    "Prenom": "Madeleine",
+    "photoUrl" : "/image_0002.jpg"
+  }
+]
